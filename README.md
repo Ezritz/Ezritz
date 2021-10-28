@@ -1,4 +1,4 @@
-<a href="https://media.giphy.com/media/RJ7b181Yjv7e1MPp8J/giphy.gif" target="blue"><img align="right" src="https://media.giphy.com/media/RJ7b181Yjv7e1MPp8J/giphy.gif" heigth="150" width="150"></a>
+<a href="https://media.giphy.com/media/RJ7b181Yjv7e1MPp8J/giphy.gif" target="blue"><img align="right" src="https://media.giphy.com/media/RJ7b181Yjv7e1MPp8J/giphy.gif" heigth="100" width="100"></a>
 
 ### 👋 Hi there, I'm a Front End Developer
 
