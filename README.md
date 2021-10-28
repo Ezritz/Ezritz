@@ -12,7 +12,7 @@
 ![FIGMA](https://img.shields.io/badge/FIGMA-bb8588?style=for-the-badge&logo=FIGMA&logoColor=white&labelColor=101010)
 ![NODE](https://img.shields.io/badge/NODE-a3a380?style=for-the-badge&logo=NODE.JS&logoColor=white&labelColor=101010)
 ![FIREBASE](https://img.shields.io/badge/FIREBASE-fcca46?style=for-the-badge&logo=FIREBASE&logoColor=white&labelColor=101010)</br>
-![C++](https://img.shields.io/badge/C++-fcca46?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)</br>
+![C++](https://img.shields.io/badge/C++-0582ca?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)</br>
 
 ___
 
