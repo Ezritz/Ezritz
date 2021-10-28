@@ -1,6 +1,6 @@
 <a href="https://media.giphy.com/media/RJ7b181Yjv7e1MPp8J/giphy.gif" target="blue"><img align="right" src="https://media.giphy.com/media/RJ7b181Yjv7e1MPp8J/giphy.gif" heigth="100" width="100"></a>
 
-### 👋 Hi there, I'm a Front End Developer
+### 👋 Hi there, I'm a \<Front End Developer\>
 
 <!--
 **Ezritz/Ezritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -16,8 +16,8 @@
 
 ___
 
-#### Where to find me
-<a href="https://www.linkedin.com/in/lidiaedithescoto/" target="blue"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lidia Escoto" height="30" width="40" />Linkedin</a> </br>
-<a href="mailto:lidia.edith.escoto@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Lidia Escoto" height="30" width="40" />lidia.edith.escoto@gmail.com</a>
+#### Where to find me 🌎
+💼 [Linkedin]("https://www.linkedin.com/in/lidiaedithescoto/")
+
 
 
