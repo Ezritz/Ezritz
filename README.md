@@ -18,7 +18,8 @@ ___
 
 #### Where to find me 🌎
 
-![Linkedin](https://www.linkedin.com/in/lidiaedithescoto-ffe169?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)
+💼 [Linkedin](https://www.linkedin.com/in/lidiaedithescoto/)</br>
+✉️ lidia.edith.escoto@gmail.com
 
 
 
