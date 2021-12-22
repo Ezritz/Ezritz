@@ -16,6 +16,9 @@
 
 ___
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezritz&show_icons=true&theme=onedark)
+
+
 #### Where to find me 🌎
 
 💼 [Linkedin](https://www.linkedin.com/in/lidiaedithescoto/)</br>
